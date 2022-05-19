@@ -1,0 +1,14 @@
+E:\Demo\DesignModeDemo\bin\Debug\netcoreapp3.1\DesignModeDemo.exe
+E:\Demo\DesignModeDemo\bin\Debug\netcoreapp3.1\DesignModeDemo.deps.json
+E:\Demo\DesignModeDemo\bin\Debug\netcoreapp3.1\DesignModeDemo.runtimeconfig.json
+E:\Demo\DesignModeDemo\bin\Debug\netcoreapp3.1\DesignModeDemo.runtimeconfig.dev.json
+E:\Demo\DesignModeDemo\bin\Debug\netcoreapp3.1\DesignModeDemo.dll
+E:\Demo\DesignModeDemo\bin\Debug\netcoreapp3.1\DesignModeDemo.pdb
+E:\Demo\DesignModeDemo\obj\Debug\netcoreapp3.1\DesignModeDemo.csproj.AssemblyReference.cache
+E:\Demo\DesignModeDemo\obj\Debug\netcoreapp3.1\DesignModeDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Demo\DesignModeDemo\obj\Debug\netcoreapp3.1\DesignModeDemo.AssemblyInfoInputs.cache
+E:\Demo\DesignModeDemo\obj\Debug\netcoreapp3.1\DesignModeDemo.AssemblyInfo.cs
+E:\Demo\DesignModeDemo\obj\Debug\netcoreapp3.1\DesignModeDemo.csproj.CoreCompileInputs.cache
+E:\Demo\DesignModeDemo\obj\Debug\netcoreapp3.1\DesignModeDemo.dll
+E:\Demo\DesignModeDemo\obj\Debug\netcoreapp3.1\DesignModeDemo.pdb
+E:\Demo\DesignModeDemo\obj\Debug\netcoreapp3.1\DesignModeDemo.genruntimeconfig.cache
