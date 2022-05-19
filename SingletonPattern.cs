@@ -36,7 +36,7 @@ namespace DesignModeDemo
                     lock (locked) {
                         if (singleton2 == null)
                         {
-                            singleton2 = new Singleton2();
+                            singleton2 = new Singleton2();  
                         }
                     }
                 }
